@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!-- COPIE ESTE DOCUMENTO E NEMEIE-O COMO acessos.xml -->
+<!-- ELE SERÁ O RESPONSÁVEL POR CONTER AS CHAVES DA SUA APLICAÇÃO PUSHER -->
+<!-- PREENCHA AS INFORMACOES DE MANEIRA ADEQUADA -->
+<acessos>
+    <pusher>
+        <appId></appId>
+        <key></key>
+        <secret></secret>
+    </pusher>
+</acessos>
